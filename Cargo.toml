@@ -1,0 +1,6 @@
+[package]
+name = "ternary-compiler-optimizer"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Optimization passes for ternary bytecode"
